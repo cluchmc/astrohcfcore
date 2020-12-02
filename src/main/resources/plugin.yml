@@ -1,0 +1,6 @@
+name: HCTeams
+version: 1.0-SNAPSHOT
+author: Cluch
+main: net.frozenorb.foxtrot.Foxtrot
+softdepend: [ Vault, CheatBreakerAPI, UniversalClientAPI ]
+depend: [ qLib, ProtocolLib ]

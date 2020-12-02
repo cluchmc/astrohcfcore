@@ -1,0 +1,14 @@
+groups:
+  owner:
+    commands:
+      - "example"
+      - "bc example"
+      - "bc givekey %player% OP 1"
+  admin:
+    commands:
+      - "example"
+      - "bc example"
+      - "bc givekey %player% OP 1"
+
+reclaimed:
+  uuid: true
